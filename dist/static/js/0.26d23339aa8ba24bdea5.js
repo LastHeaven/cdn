@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[0],{wCbG:function(e,n,t){"use strict";t.r(n);var a={name:"Main"},u=t("KHd+"),i=Object(u.a)(a,function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("c-site-info",[t("page-head"),e._v(" "),t("page-menu"),e._v(" "),t("router-view")],1)},[],!1,null,null,null);n.default=i.exports}}]);

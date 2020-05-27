@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[40],{wa9D:function(n,e,t){"use strict";t.r(e);var a={name:"CarReport"},r=t("KHd+"),c=Object(r.a)(a,function(){var n=this,e=n.$createElement;return(n._self._c||e)("div",[n._v("\n  功能开发中，敬请期待！\n")])},[],!1,null,"4f845197",null);e.default=c.exports}}]);
