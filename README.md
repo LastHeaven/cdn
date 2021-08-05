@@ -1,2 +1,1 @@
-# cdn
-cdn测试
+https://cdn.jsdelivr.net/gh/LastHeaven/cdn/images/index.html
